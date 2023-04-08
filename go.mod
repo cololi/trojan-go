@@ -9,7 +9,7 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/stretchr/testify v1.7.0
 	github.com/txthinking/socks5 v0.0.0-20210716140126-fa1f52a8f2da
-	github.com/v2fly/v2ray-core/v4 v4.44.0
+	github.com/v2fly/v2ray-core/v4 v4.45.2
 	github.com/xtaci/smux v1.5.15
 	golang.org/x/net v0.5.0
 	golang.org/x/term v0.4.0
@@ -32,8 +32,8 @@ require (
 	github.com/txthinking/runnergroup v0.0.0-20210608031112-152c7c4432bf // indirect
 	github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe // indirect
 	go.starlark.net v0.0.0-20210901212718-87f333178d59 // indirect
-	go4.org/intern v0.0.0-20210108033219-3eb7198706b2 // indirect
-	go4.org/unsafe/assume-no-moving-gc v0.0.0-20201222180813-1025295fd063 // indirect
+	go4.org/intern v0.0.0-20220301175310-a089fc204883 // indirect
+	go4.org/unsafe/assume-no-moving-gc v0.0.0-20211027215541-db492cf91b37 // indirect
 	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/sys v0.4.0 // indirect
 	golang.org/x/text v0.6.0 // indirect
